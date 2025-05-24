@@ -165,11 +165,25 @@ export default function ColdBrewLanding() {
             <div className="text-center space-y-8">
               <p className="text-gray-600 font-medium">Trusted by professionals at</p>
               <div className="flex flex-wrap justify-center items-center gap-8 md:gap-12 opacity-60">
-                <Image src="/placeholder.svg?height=40&width=120" alt="Google" width={120} height={40} />
-                <Image src="/placeholder.svg?height=40&width=120" alt="Microsoft" width={120} height={40} />
-                <Image src="/placeholder.svg?height=40&width=120" alt="Apple" width={120} height={40} />
-                <Image src="/placeholder.svg?height=40&width=120" alt="Tesla" width={120} height={40} />
-                <Image src="/placeholder.svg?height=40&width=120" alt="Netflix" width={120} height={40} />
+                <Image
+                  src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+                  alt="Google"
+                  width={60}
+                  height={40}
+                />
+                <Image
+                  src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+                  alt="Microsoft"
+                  width={60}
+                  height={40}
+                />
+                <Image
+                  src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+                  alt="Apple"
+                  width={60}
+                  height={40}
+                />
+
               </div>
             </div>
           </div>
@@ -202,7 +216,7 @@ export default function ColdBrewLanding() {
                   </p>
                   <div className="flex items-center space-x-3">
                     <Image
-                      src="/placeholder.svg?height=40&width=40"
+                      src="https://randomuser.me/api/portraits/women/44.jpg"
                       alt="Sarah Chen"
                       width={40}
                       height={40}
@@ -229,7 +243,7 @@ export default function ColdBrewLanding() {
                   </p>
                   <div className="flex items-center space-x-3">
                     <Image
-                      src="/placeholder.svg?height=40&width=40"
+                      src="https://randomuser.me/api/portraits/men/32.jpg"
                       alt="Marcus Rodriguez"
                       width={40}
                       height={40}
@@ -256,7 +270,7 @@ export default function ColdBrewLanding() {
                   </p>
                   <div className="flex items-center space-x-3">
                     <Image
-                      src="/placeholder.svg?height=40&width=40"
+                      src="https://randomuser.me/api/portraits/women/68.jpg"
                       alt="Emily Watson"
                       width={40}
                       height={40}
