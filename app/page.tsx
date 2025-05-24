@@ -14,7 +14,7 @@ export default function ColdBrewLanding() {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <Coffee className="h-8 w-8 text-amber-600" />
-            <span className="text-xl font-bold text-gray-900">BrewCraft</span>
+            <span className="text-xl font-bold text-gray-900">YogesCoffee</span>
           </div>
           <nav className="hidden md:flex space-x-8">
             <Link href="#features" className="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">
@@ -84,7 +84,7 @@ export default function ColdBrewLanding() {
               <div className="relative">
                 <div className="relative z-10">
                   <Image
-                    src="/placeholder.svg?height=600&width=500"
+                    src="/coffee.jpg?height=600&width=500"
                     alt="Premium Cold Brew Coffee Bottle"
                     width={500}
                     height={600}
