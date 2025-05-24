@@ -107,7 +107,7 @@ export default function ColdBrewLanding() {
         <section id="features" className="py-16 md:py-24 bg-gray-50">
           <div className="container mx-auto px-4 md:px-6">
             <div className="text-center space-y-4 mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-900">Why Professionals Choose BrewCraft</h2>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900">Why Professionals Choose YogesCoffee</h2>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                 Engineered for peak performance, crafted for exceptional taste
               </p>
@@ -271,7 +271,7 @@ export default function ColdBrewLanding() {
                     ))}
                   </div>
                   <p className="text-gray-700">
-                    "I've tried every premium coffee brand out there. BrewCraft is in a league of its own. The
+                    "I've tried every premium coffee brand out there. YogesCoffee is in a league of its own. The
                     convenience and quality are unmatched."
                   </p>
                   <div className="flex items-center space-x-3">
@@ -337,7 +337,7 @@ export default function ColdBrewLanding() {
             <div className="space-y-4">
               <div className="flex items-center space-x-2">
                 <Coffee className="h-6 w-6 text-amber-400" />
-                <span className="text-lg font-bold">BrewCraft</span>
+                <span className="text-lg font-bold">YogesCoffee</span>
               </div>
               <p className="text-gray-400 text-sm">Premium cold brew crafted for the modern professional.</p>
             </div>
